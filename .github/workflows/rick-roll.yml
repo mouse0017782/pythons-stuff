@@ -1,4 +1,4 @@
-name: run hello world
+name: rick roll maker
 on: [pull_request, push]
 
 jobs:
