@@ -1,0 +1,17 @@
+name: run hello world
+on: [pull_request, push]
+
+jobs:
+  build:
+    strategy:
+      matrix:
+        # Use these Java versions
+        python: [
+          3.6,    # Current Java LTS
+        ]
+    runs-on: ubuntu-22.04
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v4
+      - name: run
+        run: python3 hello-world.py
