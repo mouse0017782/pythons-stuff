@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f6316c9-2224-4d48-8e2b-d71f2fc1c6e0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythons-stuff.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythons-stuff.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rick-roll/rick-roll-markdown-maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/rick-roll/rick-roll-markdown-maker.py" afterDir="false" />
+    <list default="true" id="3f6316c9-2224-4d48-8e2b-d71f2fc1c6e0" name="Changes" comment="fixxed rick roll maker">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/rick-roll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/rick-roll.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,5 +63,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixxed rick roll maker" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixxed rick roll maker" />
   </component>
 </project>
