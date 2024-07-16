@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f6316c9-2224-4d48-8e2b-d71f2fc1c6e0" name="Changes" comment="fixxed rick roll maker">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/rick-roll.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/rick-roll.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rick-roll/rick-roll-markdown-maker.py" beforeDir="false" afterPath="$PROJECT_DIR$/rick-roll/rick-roll-markdown-maker.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +59,15 @@
       <updated>1721172085795</updated>
       <workItem from="1721172087070" duration="12000" />
     </task>
+    <task id="LOCAL-00001" summary="fixxed rick roll maker">
+      <option name="closed" value="true" />
+      <created>1721173417161</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721173417161</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
