@@ -1,5 +1,14 @@
-file = open("output/rick-roll.txt", "w")
+import contextlib
+
 text = "insert your text here"
-file.write("[" + text + "]" + "(https://youtu.be/dQw4w9WgXcQ?si=nelBnas0wSu0yxWJ)")
-print("[" + text + "]" + "(https://youtu.be/dQw4w9WgXcQ?si=nelBnas0wSu0yxWJ)")
-file.close()
+try:
+    file = open("output/rick-roll.txt", "w")
+    file.write("[" + text + "]" + "(https://youtu.be/dQw4w9WgXcQ?si=nelBnas0wSu0yxWJ)")
+    print("[" + text + "]" + "(https://youtu.be/dQw4w9WgXcQ?si=nelBnas0wSu0yxWJ)")
+    file.close()
+except FileNotFoundError:
+    print("[" + text + "]" + "(https://youtu.be/dQw4w9WgXcQ?si=nelBnas0wSu0yxWJ)")
+
+
+
+
